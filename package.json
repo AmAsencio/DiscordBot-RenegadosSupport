@@ -1,0 +1,21 @@
+{
+  "name": "renegadossupport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@canvas-fonts/arial-bold": "^1.0.4",
+    "@napi-rs/canvas": "^0.1.51",
+    "axios": "^1.6.8",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "niby-welcomes": "^1.0.7",
+    "sqlite3": "^5.1.7"
+  }
+}
