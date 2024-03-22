@@ -351,4 +351,3 @@ Client.on("interactionCreate", async (interaction) => {
 
 
 // Conexion
-Client.login('TOKEN');
